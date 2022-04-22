@@ -1,6 +1,6 @@
 ## So you think you're a FAYETTER
 
-![Alt text](./GeneratedFestivalPoster.png.pdf)
+![Alt text](./Screen Shot 2022-04-22 at 11.59.40 AM.png)
 
 You can use the [editor on GitHub](https://github.com/54fayette/54fayette.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
