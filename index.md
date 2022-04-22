@@ -6,3 +6,8 @@
 
 </p>
 </details>
+
+
+## Wifi Password
+
+## Host Contact information
