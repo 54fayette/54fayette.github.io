@@ -4,9 +4,9 @@ title: Welcome to FayetteFEST
 description: Hosted by Daddy B Benji, the Chard, AGom, lil' Fresh, & Ai DAN
 
 collections:
-  topic-a:
+  topic-a: Drink Menu
     output: true
     permalink: /topic-a/:path/
-  topic-b:
+  topic-b: BINGO
     output: true
     permalink: /topic-b/:path/
