@@ -1,6 +1,6 @@
 ## So you think you're a FAYETTER
 
-![Alt text](54fayette.github.io/Screen Shot 2022-04-22 at 11.59.40 AM.png)
+![Alt text](54fayette.github.io/lineup)
 
 You can use the [editor on GitHub](https://github.com/54fayette/54fayette.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
