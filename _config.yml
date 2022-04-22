@@ -2,3 +2,11 @@ theme: jekyll-theme-hacker
 
 title: Welcome to FayetteFEST
 description: Hosted by Daddy B Benji, the Chard, AGom, lil' Fresh, & Ai DAN
+
+collections:
+  topic-a:
+    output: true
+    permalink: /topic-a/:path/
+  topic-b:
+    output: true
+    permalink: /topic-b/:path/
