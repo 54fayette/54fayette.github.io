@@ -1,3 +1,3 @@
-## So you think you're a FAYETTER
+## Welcome to FayetteFEST
 
-### Welcome to our home! Come celebrate with us tonight! 
+### Hosts: Daddy B Benji, the Chard, AGom, Lil' Fresh, & Ai DAN
