@@ -1,11 +1,7 @@
-## Drink Menu
-<details><summary>DRINK MENU</summary>
-<p>
+# Welcome to our home! 
 
-</p>
-</details>
+## Evening Tasks
 
+## Drink Menu 
 
-## Wifi Password
-
-## Host Contact information
+## Contact 
