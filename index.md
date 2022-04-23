@@ -29,8 +29,8 @@ Addy: 54 Fayette St Unit 3, Cambridge, MA 02139
 
 ## Host Contact 
 ### Please text us if you need anything! 
-Lex (the Jew): (562) 221-5779
-Richard (Asian no. 1): (415) 318-6381
-Ben (the hot one): (512) 739-3131
-Mint (Asian no. 2): (562) 704-2158
-Aidan (the tall one): (567) 225-1689
+- Lex (the Jew): (562) 221-5779
+- Richard (Asian no. 1): (415) 318-6381
+- Ben (the hot one): (512) 739-3131
+- Mint (Asian no. 2): (562) 704-2158
+- Aidan (the tall one): (567) 225-1689
