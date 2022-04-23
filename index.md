@@ -24,8 +24,15 @@ Addy: 54 Fayette St Unit 3, Cambridge, MA 02139
 
 
 ## Drink Menu 
-### 1. BTS: 
-### 2. Long Island 
+### 1. BTS Dynamite: 
+Yakult + Soju
+
+### 2. Harry Styles' Golden Gin&T:
+Gin, Tonic water 
+
+### 3. Lizzo's Twin Cities Iced Tea:
+Vodka, white rum, silver tequila, gin, triple sec, any leftover alcohol we found
+
 
 ## Host Contact 
 ### Please text us if you need anything! 
